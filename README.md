@@ -1,5 +1,5 @@
 # Final_GISC6317
-This is my submission for my final project for GISC 6317 Python Programming for Social Sciences
+This is my submission for my final project for GISC 6317 Python Programming for Social Sciences that plays off of the work of Florent Poux, A specialist in 3D Data manipulation
 
 # Change Detection Using Python's open3d
 
